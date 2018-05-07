@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/gradient.jpg");
+}
+.green-background {
+    background-image: url("../images/felt.jpg");
+    width: 500pt;
+    height: 500pt;
+    position: relative;
+    top: 25px;
+    margin: 0 auto;
+}
+.playing-card {
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+.king {
+    position: absolute;
+    top: 75px;
+    left: 200px;
+}
+.queen {
+    position: absolute;
+    top: 95px;
+    left: 200px;
+}
+.jack{
+    position: absolute;
+    top: 115px;
+    left: 200px;
+}
+.ten {
+    position: absolute;
+    top: 135px;
+    left: 200px;
+}
